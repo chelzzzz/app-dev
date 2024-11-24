@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+
+## Fun Fact About Me:
+Favorite Movie: Doctor Strange (2016)  
